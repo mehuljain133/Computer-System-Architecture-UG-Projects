@@ -1,3 +1,4 @@
+# Design the register set, memory and the instruction set. Use this machine for the assignments of this section.
 class CPU:
     def __init__(self):
         # Initialize registers: IR, DR, AC, AR, PC, I, E
